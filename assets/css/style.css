@@ -139,11 +139,6 @@ new attributes of left column sections/Cards
     padding: 50px;
 }
 
-
-/* 
-made new left column attributes
-*/
-
 .search-engine-optimization img,
 .online-reputation-management img,
 .social-media-marketing img {
@@ -158,7 +153,9 @@ made new left column attributes
 }
 
 
-/* FOOTER CONTENT goes here */
+/*
+footer content
+*/
 
 .footer {
     clear: both;
